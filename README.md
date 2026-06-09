@@ -6,6 +6,10 @@
 
 ### Overview
 
+
+<img width="1877" height="882" alt="image" src="https://github.com/user-attachments/assets/063b58d7-095d-4ced-b92d-8126b4927d42" />
+
+
 TravelX is a comprehensive travel management application designed to help users plan, book, and manage their trips from a single platform. The app provides services such as destination discovery, itinerary planning, flight and hotel booking, transportation management, travel recommendations, and real-time travel updates. Its primary goal is to simplify travel planning and enhance the overall travel experience. Travel applications commonly integrate booking, trip management, real-time notifications, and personalized recommendations to provide an end-to-end travel experience. ([App Store][1])
 
 ### Problem Statement
